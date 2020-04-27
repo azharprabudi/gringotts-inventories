@@ -1,0 +1,7 @@
+version: "1"
+inventories:
+  - gringottsname: example
+    database: example
+    username: example
+    host: 127.0.0.1
+    port: 5432
