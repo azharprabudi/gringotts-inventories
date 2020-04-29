@@ -10,3 +10,8 @@ inventory:
     username: postgres
     host: "192.168.1.11"
     port: 5432
+  - gringottsname: xyz
+    database: xyz
+    username: postgres
+    host: "192.168.1.11"
+    port: 5432
